@@ -1,5 +1,5 @@
-There once was a user name Larry
-With a pull-request he wanted to vary
-The modfication did surge
-But upstream did a squash-merge
-And the result was a mess, yes very
+There once was a user name Larry,
+With a pull-request he wanted to vary,
+The modfication did surge,
+But upstream did a squash-merge,
+And the result was a mess, yes very.
